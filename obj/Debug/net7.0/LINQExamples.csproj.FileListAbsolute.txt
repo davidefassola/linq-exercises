@@ -1,0 +1,15 @@
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\bin\Debug\net7.0\LINQExamples.exe
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\bin\Debug\net7.0\LINQExamples.deps.json
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\bin\Debug\net7.0\LINQExamples.runtimeconfig.json
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\bin\Debug\net7.0\LINQExamples.dll
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\bin\Debug\net7.0\LINQExamples.pdb
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.csproj.AssemblyReference.cache
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.AssemblyInfoInputs.cache
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.AssemblyInfo.cs
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.csproj.CoreCompileInputs.cache
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.dll
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\refint\LINQExamples.dll
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.pdb
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\LINQExamples.genruntimeconfig.cache
+C:\Users\davide.fassola\Documents\Projects\Learning\LINQ\LINQExamples\obj\Debug\net7.0\ref\LINQExamples.dll
